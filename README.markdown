@@ -10,7 +10,7 @@ The [wiki][wiki] holds further info, please feel free to contribute your ideas.
 
 We are trying a different approach to planning the event. We are open sourcing the process behind the planning. We hope you can check it out and contribute with your ideas and suggestions.
 
-## About FAYA:80 (Read as FAYA PORT 80)
+## About FAYA:80
 
 In this era, technological advances have created a niche for themselves in the IT stratosphere. Newer technologies and related developments are happening at a sky-rocketing pace. Nurturing the power of being empowered in the right technology at the right time is the need of the hour.  FAYA:80 provides a platform for the technocrats to keep at par with the latest tools and technologies in the IT industry. It inculcates a culture of community of practise for the technologists whereby they ignite the art of knowledge gaining and knowledge-sharing. 
 

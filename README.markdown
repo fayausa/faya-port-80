@@ -12,7 +12,7 @@ We are trying a different approach to planning the event. We are open sourcing t
 
 ## History
 
-Faya Port 80 has been running for the past 4 years. It was previously called Coffee @ DBG. All the previous talks are recorded & available in [YouTube][youtube]. 
+Faya Port 80 has been running for the past 4 years. It was previously called [Coffee @ DBG][youtube]. All the previous talks are recorded & available in [YouTube][FAYA youtube]. 
 
 ## Credits
 
@@ -20,4 +20,5 @@ Its hosted by the company [Faya][faya].
 
 [wiki]: https://github.com/fayausa/faya-port-80/wiki
 [youtube]: https://www.youtube.com/channel/UCF3jAbUYCEp-5O1bKNV-Nrw/feed
+[FAYA youtube]: https://www.youtube.com/fayausa
 [faya]: https://fayausa.com/

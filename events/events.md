@@ -1,4 +1,4 @@
-# Wiki
+# Events
 
 ## Tentative Deadlines
 
@@ -16,8 +16,10 @@
 * [Sessions][Sessions]
 * Workshops
 * Quiz
-* Code challenge
+* [Code Challenge][CodeChallenge]
+* Panel Discussion
 
 
 
-[Sessions]: https://github.com/fayausa/faya-port-80/wiki/sessions.md
+[Sessions]: https://github.com/fayausa/faya-port-80/events/sessions.md
+[CodeChallenge]: https://github.com/fayausa/faya-port-80/events/code-challenge.md

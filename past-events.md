@@ -1,5 +1,4 @@
 # Past Events
-
 * Launch it with Docker (Apr 5, 2017 )
 * Fuel Up JavaScript with Functional Programming (Mar 1, 2017 )
 * A Roadmap for Angular2  (Feb 1, 2017 )

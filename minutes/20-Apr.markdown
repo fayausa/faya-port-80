@@ -38,7 +38,7 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
     * PH Kurian
     * Keyur Patel
 
-* Invitations will send to the HODs of all the technical institutes of the State under KTU.
+* Invitations will be sent to the HODs of all the technical institutes of the State under KTU.
 * If an additional sponsorship of 10 lakhs can be arranged, a Hackathon can be held via HackerEarth. This could possibly invite crowds from all over the country.
 
 [deepu]: https://github.com/deepusnath

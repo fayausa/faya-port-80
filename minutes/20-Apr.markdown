@@ -22,7 +22,9 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
 
 * The event will begin with a formal inauguration. 
 * The event will be targeting the technology enthusiasts across the country. 
-* The special guests are yet to be finalised. The inauguration will be followed by a Panel Discussion on ‘The Future of IT & ITeS in Kerala’.
+* The special guests are yet to be finalised. 
+* The inauguration will be followed by a Panel Discussion on ‘The Future of IT & ITeS in Kerala’.
+* The event could possibly influence policy changes in the state.
 * There will be a maximum of 6-7 panellists, one being the representative of the decision making body of IT from the State Government. 
 * The other suggested panellists are:
     * M.Sivasankar (IT Secretary)

@@ -20,11 +20,11 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
 
 ## Event planning
 
-The event will begin with a formal inauguration. 
-The event will be targeting the technology enthusiasts across the country. 
-The special guests are yet to be finalised. The inauguration will be followed by a Panel Discussion on ‘The Future of IT & ITeS in Kerala’.
-There will be a maximum of 6-7 panellists, one being the representative of the decision making body of IT from the State Government. 
-The other suggested panellists are:
+* The event will begin with a formal inauguration. 
+* The event will be targeting the technology enthusiasts across the country. 
+* The special guests are yet to be finalised. The inauguration will be followed by a Panel Discussion on ‘The Future of IT & ITeS in Kerala’.
+* There will be a maximum of 6-7 panellists, one being the representative of the decision making body of IT from the State Government. 
+* The other suggested panellists are:
     *  M.Sivasankar (IT Secretary)
     * Ravi Gururaj
     * Krishnan Neelakandan
@@ -42,7 +42,8 @@ The other suggested panellists are:
 * If an additional sponsorship of 10 lakhs can be arranged, a Hackathon can be held via HackerEarth. This could possibly invite crowds from all over the country.
 
 [deepu]: https://github.com/deepusnath
+[jeswin]: https://github.com/jeswinsimon
 [rejah]: https://github.com/rejahrehim
-[vaishakh]: https://github.com/bvaisakh
+[vaisakh]: https://github.com/bvaisakh
 [jikku]: https://github.com/jikkujose
 [technikhil]: https://github.com/nikhilkrishna

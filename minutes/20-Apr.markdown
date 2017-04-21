@@ -41,7 +41,7 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
     * Kunjalikutty (Previous Minister of IT)
 
 * Anoop Ambika can possibly conduct the event.
-* Invitations will be sent to the HODs of all the technical institutes of the State under KTU.
+* Heads of all the technical institutes of the State under KTU will be invited.
 * Approx budgeting have been completed.
 * Nasscomm has stated interest to support.
 * If an additional sponsorship of 10 lakhs can be arranged, a Hackathon can be held via HackerEarth. This could possibly invite crowds from all over the country.

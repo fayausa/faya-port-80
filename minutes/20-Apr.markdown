@@ -16,7 +16,6 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
     * Jason Fried (37 Signals)
     * Geoffrey Hinton – Deep Learning
     * Andrew N G – Machine Learning
-    * Robert Martin aka Uncle Bob – Clean Coder
 
 ## Event planning
 
@@ -27,17 +26,14 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
 * The event could possibly influence policy changes in the state.
 * There will be a maximum of 6-7 panellists, one being the representative of the decision making body of IT from the State Government. 
 * The other suggested panellists are:
-    * M.Sivasankar (IT Secretary)
-    * Ravi Gururaj
+    * M Sivasankar (IT Secretary)
     * Krishnan Neelakandan (x Head of STPI)
     * Antony Thomas (GE)
-    * Rishikesh Nair (CEO, Technopark)
-    * Jayasankar Prasad (CEO, Startup Mission)
-    * Binu Koshy (x CEO EY)
-    * Sreekumar (Tata Elxsi)
+    * Binu Koshy (x CEO EY, Trivandrum)
+    * Sreekumar (CEO, Tata Elxsi)
     * Nandakumar (SunTec)
     * PH Kurian (x IT Secretary)
-    * Keyur Patel (Fuse Capital)
+    * Keyur Patel (Managing Partner, Fuse Capital)
     * Kunjalikutty (Previous Minister of IT)
 
 * Anoop Ambika can possibly conduct the event.

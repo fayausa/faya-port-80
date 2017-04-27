@@ -28,14 +28,14 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
 * The other suggested panellists are:
     * M Sivasankar (IT Secretary)
     * Krishnan Neelakandan (x Head of STPI)
+    * Jayashankar Prasad C (ICFOSS)
+    * Keyur Patel (Managing Partner, Fuse Capital)
     * Antony Thomas (GE)
     * Binu Koshy (x CEO EY, Trivandrum)
     * Sreekumar (CEO, Tata Elxsi)
     * Nandakumar (SunTec)
     * PH Kurian (x IT Secretary)
-    * Keyur Patel (Managing Partner, Fuse Capital)
-    * Kunjalikutty (Previous Minister of IT)
-
+    
 * Anoop Ambika can possibly conduct the event.
 * Heads of all the technical institutes of the State under KTU will be invited.
 * Approx budgeting have been completed.

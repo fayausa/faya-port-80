@@ -4,7 +4,7 @@ Members Present:  @deepusnath, @rejahrehim,  Sujith Unni(Nasscom)
 
 ## Discussions & Decisions
 
-* Speaker Invite to be drfted before 2nd May
+* Speaker Invite to be drafted before 2nd May
 * Content for Event  to be drafted before 2nd May
 * Invite for Speakers should start by 5th May
 * Decided to Meet prospective sponsors and Representative of Industry Bodies

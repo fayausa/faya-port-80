@@ -2,7 +2,7 @@
 
 Members Present: @deepusnath, Sujith Unni(Nasscom), Jayashankar Prasad(ICFOSS), Ashok Kurian Panjikaran (Startup Mission)
 
-The following were discussed and decided in the meeting.
+## Discussions & Decisions
 
 * ICFOSS will support the Open Source Stack for the event
 * A meeting is scheduled with the Startup Mission Director on 28th April (Friday) morning (28th April)

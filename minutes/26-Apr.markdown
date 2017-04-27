@@ -1,6 +1,6 @@
 # Minutes of the Meeting - April 26
 
-Members Present: [@deepusnath][deepu], [@rejahrehim][rejah],  Sujith Unni(Nasscom)
+Members Present:  @deepusnath, @rejahrehim,  Sujith Unni(Nasscom)
 
 ## Discussions & Decisions
 

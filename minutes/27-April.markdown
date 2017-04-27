@@ -1,6 +1,6 @@
 # Minutes of the Meeting - April 27
 
-Members Present: [@deepusnath][deepu], Sujith Unni(Nasscom), Jayashankar Prasad(ICFOSS), Ashok Kurian Panjikaran (Startup Mission)
+Members Present: @deepusnath, Sujith Unni(Nasscom), Jayashankar Prasad(ICFOSS), Ashok Kurian Panjikaran (Startup Mission)
 
 ## Discussions & Decisions
 

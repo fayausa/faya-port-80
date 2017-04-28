@@ -5,7 +5,7 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
 ## Discussions & Decisions
 
 * The event will be titled “Break the Echo Chamber”. 
-* The theme of the event will be the Futuristic Technologies: Artificial Intelligence, Machine Learning, Bitcoin and VR. 
+* The theme of the event will be the Futuristic Technologies: Artificial Intelligence, Machine Learning, Block Chain, VR, IOT and Robotics. 
 * We should have atleast one international speaker for the event. 
 * It will be great if we could have someone from Apple, Google, Facebook, Uber or Tesla on board.
 * The wishlist of speakers for the event are as follows:

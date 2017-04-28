@@ -28,6 +28,7 @@ Members Present: [@deepusnath][deepu], [@rejahrehim][rejah], [@jeswinsimon][jesw
 * The other suggested panellists are:
     * M Sivasankar (IT Secretary)
     * Krishnan Neelakandan (x Head of STPI)
+    * Dr.Saji Gopinath (Startup Mission)
     * Jayashankar Prasad C (ICFOSS)
     * Keyur Patel (Managing Partner, Fuse Capital)
     * Antony Thomas (GE)

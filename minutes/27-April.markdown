@@ -1,6 +1,6 @@
 # Minutes of the Meeting - April 27
 
-Members Present: @deepusnath, Sujith Unni(Nasscom), Jayashankar Prasad(ICFOSS), Ashok Kurian Panjikaran (Startup Mission)
+Members Present:  [@deepusnath][deepu], Sujith Unni(Nasscom), Jayashankar Prasad(ICFOSS), Ashok Kurian Panjikaran (Startup Mission)
 
 ## Discussions & Decisions
 
@@ -13,3 +13,5 @@ Members Present: @deepusnath, Sujith Unni(Nasscom), Jayashankar Prasad(ICFOSS), 
 * It was also suggested that ‘Future Labs’ can showcase their prototypes in one of the booths.
 * IEDC  can be used to connect to the colleges.
 * The meeting was dispersed after scheduling to meet on 4th May
+
+[deepu]: https://github.com/deepusnath

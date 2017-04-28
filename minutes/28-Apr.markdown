@@ -9,3 +9,5 @@ Members Present:  [@deepusnath][deepu], Sujith Unni(Nasscom),Dr. Saji Gopinath  
 * Dr. Saji Gopinath suggested to schedule a meeting to discuss the event in detail 
 * He also suggested to involve Dr.Ashraf, Faculty member of of IITMK 
 * Scheduled a meeting with Dr. Saji Gopinath, Dr.Ashraf and Mr. Jayashankar Prasad  on 29th April (Saturday) to give them a broad picture about the event.
+
+[deepu]: https://github.com/deepusnath

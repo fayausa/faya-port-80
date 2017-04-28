@@ -1,6 +1,6 @@
 # Minutes of the Meeting - April 26
 
-Members Present:  @deepusnath, @rejahrehim,  Sujith Unni(Nasscom)
+Members Present:   [@deepusnath][deepu], [@rejahrehim][rejah],  Sujith Unni(Nasscom)
 
 ## Discussions & Decisions
 
@@ -12,3 +12,5 @@ Members Present:  @deepusnath, @rejahrehim,  Sujith Unni(Nasscom)
 * A list of potential partners for the event was created.
 * Sujith suggested to integrate Tech Myrmidons as NASSCOM collaborated platform that can be used PAN India as a learning tool for all techies. 
 
+[deepu]: https://github.com/deepusnath
+[rejah]: https://github.com/rejahrehim

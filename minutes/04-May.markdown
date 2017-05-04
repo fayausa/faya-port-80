@@ -1,6 +1,7 @@
 # Minutes of the Meeting - May 04
 
-Members Present: [@jikkujose][jikku], [@deepusnath][deepu]
+Members Present:  [@jikkujose][jikku], [@deepusnath][deepu], Nikhil, Rejah, Nandu Sankar, Amal Shehu 
+
 
 Public speaking and tech sessions
 - Workshops
@@ -26,3 +27,23 @@ Public speaking and tech sessions
 - Signin party 
 - Gpg
 - Tor
+
+## Topics
+
+| General & Public                   | Technical                   |Workshop                                |
+|:-----------------------------------|:----------------------------|:---------------------------------------|
+| Future: The next decade of change  | NASSCOM - Intl. Singularity | Bitcon testnet transaction wallet      |
+| Surveillance or privilege          | Sidhu ponnappa              | Rust - Mozilla                         |
+| Open source in day to day          | Jasim                       | Key exhcange party                     |
+| State govt. Digital services       | Sherin Cleatus              | Booth [Signing party, Encryption, VR]  |
+| Quiz                               | Rishi                        
+| RTI / RTS                          | Hari Sankar - Red panthers
+| Anivar                             | Oswap
+|                                    | Google - Amrut Sanjeev
+|                                    | AMP, PWA,Firebase
+|                                    | Rective programming
+|                                    | Programming paradigm
+
+
+[jikku]: https://github.com/jikkujose
+[deepu]: https://github.com/deepusnath

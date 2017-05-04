@@ -1,6 +1,6 @@
 # Minutes of the Meeting - May 04
 
-Members Present:  [@jikkujose][jikku], [@deepusnath][deepu], Nikhil, Rejah, Nandu Sankar, Amal Shehu 
+Members Present:  [@jikkujose][jikku], [@deepusnath][deepu], [@nikhilkrishna][technikhil], [@rejahrehim][rejah], Nandu Sankar, [@amalshehu][amal], [@jeswinsimon][jeswin], [@vbvaisakh][vaisakh]
 
 
 Public speaking and tech sessions
@@ -47,3 +47,9 @@ Public speaking and tech sessions
 
 [jikku]: https://github.com/jikkujose
 [deepu]: https://github.com/deepusnath
+[jeswin]: https://github.com/jeswinsimon
+[rejah]: https://github.com/rejahrehim
+[vaisakh]: https://github.com/bvaisakh
+[jikku]: https://github.com/jikkujose
+[technikhil]: https://github.com/nikhilkrishna
+[amal]: https://github.com/amalshehu

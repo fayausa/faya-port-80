@@ -33,7 +33,7 @@ Public speaking and tech sessions
 | General & Public                   | Technical                   |Workshop                                |
 |:-----------------------------------|:----------------------------|:---------------------------------------|
 | Future: The next decade of change  | NASSCOM - Intl. Singularity | Bitcon testnet transaction wallet      |
-| Surveillance or privilege          | Sidhu ponnappa              | Rust - Mozilla                         |
+| Surveillance / Privacy & Advocacy  | Sidhu ponnappa              | Rust - Mozilla                         |
 | Open source in day to day          | Jasim                       | Key exhcange party                     |
 | State govt. Digital services       | Sherin Cleatus              | Booth [Signing party, Encryption, VR]  |
 | Quiz                               | Rishi                        

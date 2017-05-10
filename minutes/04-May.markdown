@@ -39,7 +39,10 @@ Public speaking and tech sessions
     - Rich Hickey - Are we there yet? 
 - Yet more speaker ideas : 
     - Christian Heilmann - Web Related 
-    - Chad Fowler - Passionate Programmer 
+    - Chad Fowler - Passionate Programmer
+    - [Scott Davis] (Principal Engineer with ThoughtWorks)
+    - [Anand Chandrasekaran] (Works for Facebook Messenger)
+    - [Venkat Subramaniam] (Founder of Agile Developer)
 - Privacy policy topic 
 - Setting up of live stream?
     - Camera setup like edx
@@ -89,3 +92,6 @@ Public speaking and tech sessions
 [hari]: https://twitter.com/coderhs
 [nikhilchandran]: https://twitter.com/nikhilchandran_
 [reactive]: http://www.reactivemanifesto.org/
+[Scott Davis]: http://thirstyhead.com/contact.html
+[Anand Chandrasekaran]: https://en.wikipedia.org/wiki/Anand_Chandrasekaran
+[Venkat Subramaniam]: https://www.linkedin.com/in/vsubramaniam/

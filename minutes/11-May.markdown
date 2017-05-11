@@ -44,7 +44,7 @@ Members Present:  [@jikkujose][jikku], [@deepusnath][deepu], [@rejahrehim][rejah
 - Transportation
 - Stationary and Supplies
 
-
+## Further Activities:
 - Need to setup waiting area for visitors.
 - Vehicle for guest management. Hire two cabs.
 - Rooms for guests on premise.

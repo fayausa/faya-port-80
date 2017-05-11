@@ -43,6 +43,14 @@ Public speaking and tech sessions
     - [Scott Davis] (Principal Engineer with ThoughtWorks)
     - [Anand Chandrasekaran] (Works for Facebook Messenger)
     - [Venkat Subramaniam] (Founder of Agile Developer)
+    
+- Speaker suggestions from Nasscom Tech Conference 2016    
+    - Aloknath De (Corporate Vice President and Chief Technology Officer, Samsung R&D Institute India)
+    - Dhruv Singhal (Head Solutions Architecture Amazon, India)
+    - Gaurav Gupta (Vice President, Engineering, Snapdeal)
+    - Rick Harshman (Managing Director, (Asia Pacific and Japan), Google Cloud)
+    - Sanjay Mohan (Chief Technology Officer, MakeMy Trip)
+    
 - Privacy policy topic 
 - Setting up of live stream?
     - Camera setup like edx

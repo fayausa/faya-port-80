@@ -52,3 +52,11 @@ Members Present:  [@jikkujose][jikku], [@deepusnath][deepu], [@rejahrehim][rejah
 - Decide structure for quiz.
 - Standup comedy by Praseed Pai.
 - Get date for an International speaker.
+
+
+
+[jikku]: https://github.com/jikkujose
+[deepu]: https://github.com/deepusnath
+[jeswin]: https://github.com/jeswinsimon
+[rejah]: https://github.com/rejahrehim
+[amal]: https://github.com/amalshehu

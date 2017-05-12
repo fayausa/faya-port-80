@@ -5,11 +5,11 @@ Members Present:  [@jikkujose][jikku], [@deepusnath][deepu], [@rejahrehim][rejah
 - List of speakers sent to NASSCOM.
 - Startup Mission wishes to have a grand event handled by an event management team(Stark) during a weekend, preferably July 15,16. Al Saj is not available until September.
 - Date is still an issue for the AICTE Event.
-- Taking into account the above, we shall proceed with a standalone event, preferably on Jun 5th.
+- Taking into account the above, we shall proceed with a standalone event, preferably on July 5th.
 - The date can be confirmed once we get the dates of a speaker(National or International).
 - Available Space: Travancore Hall, Malabar Hall, Cochin Hall, Meetup Cafe and FAYA premises.
 - Cochin Hall can be setup as a space for speakers and also as a Media Centre.
-- Food can be served at the Exhibition Centre and lawn. Exhibition Centre can be reserved for speakers and VIPs.
+- Food can be served at the Exhibition Centre and Sandhya lawn. Exhibition Centre can be reserved for speakers and VIPs.
 - Need to provide Technopark a list of resources required in the halls(projector, internet connectivity, microphones, etc,.)
 - [@amalshehu][amal] will be developing a Progressive Web Application for the event.
 

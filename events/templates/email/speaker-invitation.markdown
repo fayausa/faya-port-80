@@ -1,9 +1,12 @@
-Dear XXXXX,
 FAYA :80 – NASSCOM - Tech Conference
 “Breaking the Echo Chamber”
 4th & 5th July, Technopark, Thiruvananthapuram
 A confluence of Future Disruptors, Industry Veterans,
 Technology Experts, Coders and CTOs.
+
+
+Dear XXXXX,
+
  
 Being the largest tech incubator in Asia, the world has all eyes on the Indian IT Industry to bring out the next ground-breaking product that could transform generations. It was amidst building a Mobile First world, the technology development took a seismic shift towards building an AI First World. Google, Amazon, Facebook, Microsoft, Tesla, etc. are exploding the industry with their moonshot AI products.
 It is a painful truth that most of the Indian IT professionals are unaware of the exponential growth of the Global AI revolution. Many are trapped  in an echo chamber without knowing the most disruptive changes around. This echo chamber has to be broken to enable them to stay relevant in the disruptive world.

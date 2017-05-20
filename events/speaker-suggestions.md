@@ -1,4 +1,4 @@
-The consolidated list of suggested speakers
+# Suggested Speakers
 
 ### International Speakers
 

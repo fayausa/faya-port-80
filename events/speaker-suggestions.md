@@ -54,6 +54,7 @@
 ### Panelist Suggestions
 
 * M Sivasankar (IT Secretary)
+* Dr.Ashraf (IIITMK)
 * Krishnan Neelakandan (x Head of STPI)
 * Dr.Saji Gopinath (Startup Mission)
 * Jayashankar Prasad C (ICFOSS)
@@ -63,7 +64,7 @@
 * Nandakumar (SunTec)
 * PH Kurian (x IT Secretary)
 * Anoop Ambika (GTech)
-* Dr.Ashraf (IIITMK)
+
 
 ### Workshop Suggestions
 

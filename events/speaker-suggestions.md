@@ -20,6 +20,7 @@
 * Jessica Kerr - Functional Principles for Object Oriented Developers
 * Martin Fowler - Microservices
 * Rich Hickey - Are we there yet?
+* Michael Gord
 
 
 ### National Speakers
@@ -36,6 +37,15 @@
 * Aashik Salahudeen ,
 * @coderhs - Red Panthers
 * Amrit Sanjeev (Google)
+* Nandini Vaidyanadhan (Carma Connect) - nandini@carmaconnect.in
+* Rohas Nagpal (Prime Chain) - rohas@primechain.in
+* Narenda Kumar/Naresh (IDRBT) nvnarendra@idrbt.ac.in
+* Amit Bharadwaj
+* Rajeev Sreenivasan - travancore@gmail.com
+* C Mohan (IBM)
+* Rajeev Rastougi (Director ML, Amazon)
+* Krishanu Seal (VP, Flipkart)
+* Krishna Bharat (Google Head)
 
 
 ### Kerala Based Speakers 
@@ -64,6 +74,10 @@
 * Nandakumar (SunTec)
 * PH Kurian (x IT Secretary)
 * Anoop Ambika (GTech)
+* Alex Paul Menon - alexpaulmenon@gmail.com
+* Anuroop Iyengar (Cogknit) - anuroop.iyengar@cogknit.com
+* Dr. Suresh (SFO, Head IEEE) 
+
 
 
 ### Workshop Suggestions

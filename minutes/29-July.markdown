@@ -11,7 +11,6 @@ Will be for events in the following location.
 - Java, JRD installed laptops X3
 - OBS setup system X3
 
-
 #### Todo
 - [ ] Placeholder for live video session in app.
 - [ ] Event broadcast volunteer selection.
@@ -27,6 +26,9 @@ Will be for events in the following location.
 - [ ] Speaker kit []
 - [ ] Social media handling
   - [ ] Twitter, Facebook
+  - [ ] Tweet wall application
+  - [ ] Tweet quiz (Retweet options)
+  - [ ] Live social media updates from all locations.
 - [ ] Schedule press interview
 - [ ] Food committee
 - [ ] Session schedule in youtube
@@ -40,9 +42,6 @@ Will be for events in the following location.
   - [ ] Seperate slide for each session for broadcast
 
   
-
-
-
 #### Duties
 - Notification of events and web app management. 
 - Contact speakers and get presentation preferences.(Jeswin will coordinate with Murali)

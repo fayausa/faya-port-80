@@ -31,8 +31,8 @@ Will be for events in the following location.
   - [ ] Live social media updates from all locations.
 - [ ] Schedule press interview
 - [ ] Food committee
-- [ ] Session schedule in youtube
-- [ ] App update with video links
+- [X] Session schedule in youtube
+- [X] App update with video links
 - [ ] Trial run live stream, video and audio, QA, Internet connectivity
 - [ ] Placeholder videos for live stream.
 - [ ] Better quality logos from partners.

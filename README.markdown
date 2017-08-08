@@ -18,6 +18,7 @@ In this era, technological advances have created a niche for themselves in the I
 
 Faya Port 80 has been running for the past 4 years. It was previously called [Coffee @ DBG][youtube]. All the previous talks are recorded & available in [YouTube][FAYA youtube]. 
 
+## [Past Events](past-events.md)
 ## Credits
 
 Its hosted by the company [Faya][faya].

@@ -1,4 +1,4 @@
-# Faya Port 80
+#![FAYA:80 (Faya Port 80)](http://fayausa.com/wp-content/themes/faya/assets/img/FAYA-80-logo.png)
 
 Repo for managing organizing & planning of Faya Port 80 events.
 

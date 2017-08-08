@@ -3,6 +3,7 @@
 * A Roadmap for Angular 4 (Jul 19, 2017),  Amal Shehu @ Calicut
 * Deep Learning in AI - A Closer Look with Image Recognition (Jul 12, 2017), Manuyash @ Kochi
 * FAYA:80 - NASSCOM - Disrupt Kerala 2017  (Jul 5 2017), Technopark Trivandrum
+  -  [Pics](https://www.flickr.com/photos/150807821@N05/albums/72157683778224290) 
 * Launch it with Docker (Apr 5, 2017 )
 * Fuel Up JavaScript with Functional Programming (Mar 1, 2017 )
 * A Roadmap for Angular2  (Feb 1, 2017 )

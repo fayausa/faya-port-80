@@ -4,7 +4,7 @@
 
 ### National Speakers
 
-- Nandini Vaidyanadhan (Carma Connect) - nandini@carmaconnect.in
+- Nandini Vaidyanadhan
 
 ### Kerala Based Speakers
 

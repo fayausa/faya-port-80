@@ -8,7 +8,7 @@ Members Present: Deepu S Nath, Haris PC, Arun F Vicent
 
 - #### **Title**
 
-  Evolve Kerala 202
+  Evolve Kerala 2023
 
 - **Date**
 

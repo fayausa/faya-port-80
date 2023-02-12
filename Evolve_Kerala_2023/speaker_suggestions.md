@@ -16,3 +16,4 @@
 - [Sreekumar V](https://www.linkedin.com/in/sreekumarv)
 - [Anish Aravind](https://www.linkedin.com/in/anisharavind/)
 - [Amrit Sanjeev](https://twitter.com/amsanjeev)
+- [Raul John Aju](https://www.facebook.com/raultherockstar)

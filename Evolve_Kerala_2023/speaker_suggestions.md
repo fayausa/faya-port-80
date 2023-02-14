@@ -8,7 +8,7 @@
 
 ### Kerala Based Speakers
 
-- Chief Minister or other Kerala Govt. representative
+- Usha Titus IAS
 - Anish Aravind
 - Manu Melvin Joy
 - Renju R

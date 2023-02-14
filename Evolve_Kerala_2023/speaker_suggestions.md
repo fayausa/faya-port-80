@@ -9,7 +9,6 @@
 ### Kerala Based Speakers
 
 - Usha Titus IAS
-- Anish Aravind
 - Manu Melvin Joy
 - Renju R
 - [Sunny Gupta](https://twitter.com/sunnykgupta)

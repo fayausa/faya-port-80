@@ -9,19 +9,32 @@ These speakers can been selected based on their expertise in various domains of 
 
 ## Suggested Speakers
 
-### Hugging Face
-1. **[Speaker Name]**
-   - **Title**: [Job Title]
-   - **Expertise**: [Brief description of expertise, e.g., NLP, transformers, open-source AI models]
-   - **Notable Contributions**: [Key projects or research contributions]
-   - **Contact Information**: [Email or LinkedIn]
+### Google Deepmind
+1. **Dileep George**
+   - **Title**: AGI Researcher
+   - **Expertise**: Artificial Intelligence, Neuroscience and cognitive science, Robotics, Entreprenuership.
+   - **Notable Contributions**: A generative vision model that trains with high data-efficiency breaks text based captchas. Science 2017.
+   - **Contact Information**: [(https://twitter.com/dileeplearning)]
 
-### Meta
-1. **[Speaker Name]**
-   - **Title**: [Job Title]
-   - **Expertise**: [Brief description of expertise, e.g., AI ethics, VR technologies]
-   - **Notable Contributions**: [Key projects or research contributions]
-   - **Contact Information**: [Email or LinkedIn]
+2. **Keerthana Gopalakrishnan**
+   - **Title**: Research Engineer
+   - **Expertise**: Aritificial Intelligence, Machine Learning and Robotics.
+   - **Notable Contributions**: AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents.
+   - **Contact Information**: [(keerthanapg@gmail.com)]
+
+### Mozilla
+1. **Jibu Alias**
+   - **Title**: Fellow (Country Lead for India), Responsible Computing Challenge
+   - **Expertise**: AI Activist, Ethicist
+   - **Notable Contributions**: Contributor to AI Base Module & AI Step UP Module 
+   - **Contact Information**: [(https://www.linkedin.com/in/jibuelias/)]
+
+### People + AI
+1. **Nandan Nilekeni**
+   - **Title**: Co-founder of Infosys
+   - **Expertise**: Contributed on DPG's and DPI intiatives
+   - **Notable Contributions**: Aadhaar, IndiaStack, UPI.
+   - **Contact Information**: [(nandan@nandannilekani.in)]
 
 ### Google
 1. **[Speaker Name]**

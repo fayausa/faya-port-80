@@ -52,4 +52,4 @@ Members Present: [Name 1], [Name 2], [Name 3]
 
 #### Notes
 
-Refer to [Evolve India 2023](https://github.com/fayausa/faya-port-80/tree/master/evolve-india-2023) if you need structure or content reference.
+Refer to [Past Faya:80](https://github.com/akshay-k-a-dev/faya-port-80/blob/master/checklist.md) if you need structure or content reference.

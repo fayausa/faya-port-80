@@ -5,22 +5,27 @@ All entries below are **unconfirmed prospects**. Verify full names, spellings an
 ## Kerala / existing brainstorming
 | Name supplied | Possible focus | Status / verification |
 |---|---|---|
-| Ashok | Higher Education | Verify full name and position |
-| Sreeram Venkitaraman | Youth Affairs / policy | Verify current role |
-| Tony (Trestpark) | Technology ecosystem | Verify full name and organisation |
-| Rajasree | VC conclave | Verify full name and role |
-| Shiv Sankar | Policy | Verify identity and current role |
-| Saji Gopinath | VC conclave | Verify current role |
-| Siza Maam | VC conclave | Verify full name and spelling |
+| Roji M. John | Minister for Higher Education | Inauguration | Pending |
+| Dr. B. Ashok IAS | Principal Secretary Higher Education | Policy | Pending |
+| Sreeram Venkitaraman | Special Secretary Youth Afairs | Policy | Pending |
+| Dr. Jayashankar Prasad | Director CMD | Policy | Pending |
+| Tony Thomas | Chairman, TrEST Research Park | Partner ecosystem | Pending |
+| Shiv Sankar | Partner ecosystem  | AI COE Kerala |Pending |
+| Saji Gopinath | VC DUK | VC conclave | Pending |
+| Siza Thomas || VC KTU | VC conclave | Pending |
 | Kavitha Patia | Industry / policy | Verify spelling and affiliation |
-| Beena Ammanath | AI Evolve | Verify title and availability |
-| Alex | Industry | Verify full name |
-| Binu Jacob | Industry | Verify affiliation |
-| Arun Narayan | Industry | Verify affiliation |
-| Sunil Jose | Industry | Verify affiliation |
-| Suja Chandy | Industry | Verify affiliation |
-| Jijo | Industry | Verify identity |
-| Jijimon (Acsia) | Industry | Verify identity |
+| Beena Ammanath | Global Deloitte AI Institute leader | AI Evolve | Verify availability |
+| Alexander Varghese | President at UST | Industry | Pending |
+| Binu Jacob | MD & CEO Experion Technologies | Industry | Pending |
+| Arun Narayan | Centre Head TCS Kerala | Pending |
+| Sunil Jose | Centre Head Infosys Kerala | Verify affiliation |
+| Suja Chandy |  Managing Director, India, Zafin | Industry |  Pending |
+| Jijo | Chairman at Group of Technology Companies (GTech) |Industry | Pending|
+| Jijimon | Founder & CEO, Acsia Technologies  | Industry | Pending |
+| Sreekumar V | Centre Head, Tata Elxsi | Industry | Pending |
+| Richard ANtony| Director, EY | Industry | Pending |
+| Karthik Padmanabhan | Developer Relations @ Google India Industry | Pending | 
+
 
 ## National prospects (suggestions only)
 | Prospect | Potential contribution | Status |
@@ -34,6 +39,9 @@ All entries below are **unconfirmed prospects**. Verify full names, spellings an
 | Anil Sahasrabudhe | Education systems and technology | Idea |
 | NSDC leadership | Skills and opportunity | Idea |
 | UGC leadership | Recognition pathways | Idea |
+ Representatives from TIE Kerala, CII, NASSCOM, GTECH, Mulearn, IEEE, TinkerHUb, GDSC, KASE, ASAP, ICT Academy, OASIS Foundaation etc.
+
+
 
 ## Outreach register
 | Name | Verified role | Session | Outreach owner | Date invited | Status | Follow-up | Specific request |

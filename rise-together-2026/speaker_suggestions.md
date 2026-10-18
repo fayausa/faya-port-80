@@ -30,15 +30,15 @@ All entries below are **unconfirmed prospects**. Verify full names, spellings an
 ## National prospects (suggestions only)
 | Prospect | Potential contribution | Status |
 |---|---|---|
-| Abhishek Singh | National AI vision | Idea |
-| Pramod Varma | Digital public infrastructure and decentralisation | Idea |
-| Shankar Maruwada | Open learning infrastructure | Idea |
-| Sridhar Vembu | Alternative talent and distributed opportunity | Idea |
-| Rukmini Banerji | Learning outcomes and national scale | Idea |
-| Vivek Raghavan | Indian AI innovation | Idea |
-| Anil Sahasrabudhe | Education systems and technology | Idea |
-| NSDC leadership | Skills and opportunity | Idea |
-| UGC leadership | Recognition pathways | Idea |
+| Abhishek Singh | National AI vision | Pending |
+| Pramod Varma | Digital public infrastructure and decentralisation | Pending |
+| Shankar Maruwada | Open learning infrastructure | Pending |
+| Sridhar Vembu | Alternative talent and distributed opportunity | Pending |
+| Rukmini Banerji | Learning outcomes and national scale | Pending |
+| Vivek Raghavan | Indian AI innovation | Pending |
+| Anil Sahasrabudhe | Education systems and technology | Pending |
+| NSDC leadership | Skills and opportunity | Pending |
+| UGC leadership | Recognition pathways | Pending |
 
 Representatives from TIE Kerala, CII, NASSCOM, GTECH, Mulearn, IEEE, TinkerHub, GDSC, KASE, ASAP, ICT Academy, OASIS Foundation etc.
 

@@ -7,7 +7,7 @@ All entries below are **unconfirmed prospects**. Verify full names, spellings an
 |---|---|---|---|
 | Roji M. John | Minister for Higher Education | Inauguration | Pending |
 | Dr. B. Ashok IAS | Principal Secretary, Higher Education | Policy | Pending |
-| Sreeram Venkitaraman | Special Secretary, Youth Affairs | Policy | Pending |
+| Prasanth Nair IAS | Special Secretary, Youth Affairs | Policy | Pending |
 | Dr. Jayashankar Prasad | Director, CMD | Policy | Pending |
 | Tony Thomas | Chairman, TrEST Research Park | Partner ecosystem | Pending |
 | Shiv Sankar | AI CoE Kerala | Partner ecosystem | Pending |

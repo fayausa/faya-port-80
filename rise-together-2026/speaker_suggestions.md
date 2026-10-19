@@ -5,6 +5,7 @@ All entries below are **unconfirmed prospects**. Verify full names, spellings an
 ## Kerala / existing brainstorming
 | Name | Designation | Session / focus | Status / verification |
 |---|---|---|---|
+| V D Satheeshan | Chief Minister of Kerala | Inauguration | Invited |
 | Roji M. John | Minister for Higher Education | Inauguration | Pending |
 | Dr. B. Ashok IAS | Principal Secretary, Higher Education | Policy | Pending |
 | Prasanth Nair IAS | Special Secretary, Youth Affairs | Policy | Pending |

@@ -13,7 +13,6 @@ All entries below are **unconfirmed prospects**. Verify full names, spellings an
 | Shiv Sankar | AI CoE Kerala | Partner ecosystem | Pending |
 | Saji Gopinath | VC, DUK | VC conclave | Pending |
 | Ciza Thomas | VC, KTU | VC conclave | Pending |
-| Kavitha Patia | | Industry / policy | Verify spelling and affiliation |
 | Beena Ammanath | Global Deloitte AI Institute leader | AI Evolve | Verify availability |
 | Alexander Varghese | President, UST | Industry | Pending |
 | Binu Jacob | MD & CEO, Experion Technologies | Industry | Pending |
